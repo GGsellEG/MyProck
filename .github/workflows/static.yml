@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Преимущества котиков</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        .benefit {
+            margin: 15px 0;
+            font-size: 18px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Почему котики – лучшие питомцы?</h1>
+        <div class="benefit">🐱 Улучшают настроение и снижают стресс</div>
+        <div class="benefit">🐱 Помогают бороться с одиночеством</div>
+        <div class="benefit">🐱 Требуют меньше ухода, чем собаки</div>
+        <div class="benefit">🐱 Забавные и игривые компаньоны</div>
+        <div class="benefit">🐱 Их мурлыканье полезно для здоровья</div>
+    </div>
+</body>
+</html>
